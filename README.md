@@ -1,15 +1,7 @@
-This is a simple SignIn and SignUp page built by using ReactJs and Firebase.
+This is a simple website created for Naya Studio which includes Sign-in, Sign-up and Designer/Maker options.
 
-SignUp Page looks like this:-
-
-![Signin](https://user-images.githubusercontent.com/29488275/61641377-bdd30e00-acbe-11e9-9a97-e2866172e1e8.PNG)
-
-SignIn Page looks like this:-
-
-![signup](https://user-images.githubusercontent.com/29488275/61641403-c75c7600-acbe-11e9-9c46-ace0e71d0740.PNG)
-## Available Scripts
-
-In the project directory, you can run:
+First, you need to clone or download this project.
+Then, open your visual studio code and open the folder where you just downloaded this project. Then on the terminal of visual studio code, do this:-
 
 ### `npm start`
 
@@ -23,6 +15,15 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+If you're unable to run it and are getting errors, do this :
+### `npm cache-clean --force`
+### `npm install`
+### `npm start`
+
+Now, the project will run.
+
+
 
 ### `npm run build`
 
